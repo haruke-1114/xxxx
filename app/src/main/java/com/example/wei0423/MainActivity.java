@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 //            Toast.makeText(this, "體重過重", Toast.LENGTH_LONG).show();
             view1.setImageResource(R.drawable.bmi3);
         }else{
-            rem="正常體重";
+            rem="你的正常體重";
 //            Toast.makeText(this, "正常體重", Toast.LENGTH_LONG).show();
             view1.setImageResource(R.drawable.bmi2);
         }
